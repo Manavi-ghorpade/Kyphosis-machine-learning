@@ -1,5 +1,12 @@
 # Kyphosis-machine-learning
 
+Decision tree classifier
+
+Random forest classifier
+
+Gradient Boosting Classifier
+
+
 The first heatmap visualization shows that there are no missing values in the dataset.
 In the second visualization, There are 64 values for the absence of kyphosis and 17 values for the presence of
 kyphosis from overall data.Graph shows us that count for the kyphosis absent is more to that of the kyphosis
